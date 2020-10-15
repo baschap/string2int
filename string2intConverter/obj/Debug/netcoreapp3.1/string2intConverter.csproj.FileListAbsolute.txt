@@ -1,0 +1,12 @@
+/Users/chayut/Projects/string2intConverter/string2intConverter/bin/Debug/netcoreapp3.1/string2intConverter.deps.json
+/Users/chayut/Projects/string2intConverter/string2intConverter/bin/Debug/netcoreapp3.1/string2intConverter.runtimeconfig.json
+/Users/chayut/Projects/string2intConverter/string2intConverter/bin/Debug/netcoreapp3.1/string2intConverter.runtimeconfig.dev.json
+/Users/chayut/Projects/string2intConverter/string2intConverter/bin/Debug/netcoreapp3.1/string2intConverter.dll
+/Users/chayut/Projects/string2intConverter/string2intConverter/bin/Debug/netcoreapp3.1/string2intConverter.pdb
+/Users/chayut/Projects/string2intConverter/string2intConverter/obj/Debug/netcoreapp3.1/string2intConverter.csprojAssemblyReference.cache
+/Users/chayut/Projects/string2intConverter/string2intConverter/obj/Debug/netcoreapp3.1/string2intConverter.AssemblyInfoInputs.cache
+/Users/chayut/Projects/string2intConverter/string2intConverter/obj/Debug/netcoreapp3.1/string2intConverter.AssemblyInfo.cs
+/Users/chayut/Projects/string2intConverter/string2intConverter/obj/Debug/netcoreapp3.1/string2intConverter.csproj.CoreCompileInputs.cache
+/Users/chayut/Projects/string2intConverter/string2intConverter/obj/Debug/netcoreapp3.1/string2intConverter.dll
+/Users/chayut/Projects/string2intConverter/string2intConverter/obj/Debug/netcoreapp3.1/string2intConverter.pdb
+/Users/chayut/Projects/string2intConverter/string2intConverter/obj/Debug/netcoreapp3.1/string2intConverter.genruntimeconfig.cache
